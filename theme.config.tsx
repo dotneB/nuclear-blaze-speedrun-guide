@@ -4,6 +4,14 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
   logo: <span>Nuclear Blaze Speedrun Guide</span>,
+  useNextSeoProps() {
+    const { asPath } = useRouter()
+    if (asPath !== '/') {
+      return {
+        titleTemplate: '%s - Nuclear Blaze Speedrun Guide'
+      }
+    }
+  },
   project: {
     link: 'https://github.com/dotneB/nuclear-blaze-speedrun-guide',
   },
