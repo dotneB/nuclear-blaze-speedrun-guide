@@ -10,7 +10,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://discord.gg/q6r7Z5Hmhx',
   },
-  docsRepositoryBase: 'https://github.com/dotneB/nuclear-blaze-speedrun-guide',
+  docsRepositoryBase: 'https://github.com/dotneB/nuclear-blaze-speedrun-guide/tree/main',
   footer: {
     text: 'Nuclear Blaze Speedrun Guide',
   },
