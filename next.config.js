@@ -8,6 +8,5 @@ const withNextra = require('nextra')({
     i18n: {
       locales: ['en', 'jp'],
       defaultLocale: 'en',
-      localeDetection: false,
     }
   })
