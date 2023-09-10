@@ -12,4 +12,4 @@ You can also download pre-made splits for major categories, available in the [re
 ## Get Speedrunning
 - [Speedrun Guide](/docs/Guide)
 - [Movement Techniques](/docs/Techniques/Movement)
-- [Reset Techniques](/docs/Techniques/Reset.md)
+- [Reset Techniques](/docs/Techniques/Reset)
