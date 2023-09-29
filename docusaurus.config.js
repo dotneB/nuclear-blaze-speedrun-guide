@@ -31,6 +31,7 @@ const config = {
     defaultLocale: 'en',
     locales: ['en', "jp"],
   },
+  scripts: [{src: 'https://plausible.neb.gg/js/script.js', defer: true, 'data-domain': 'nuclear-blaze-speedrun-guide.neb.gg'}],
 
   presets: [
     [
