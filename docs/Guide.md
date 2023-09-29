@@ -139,6 +139,11 @@ Don't forget to save the cat 🐱 (14/16)
 
 ---
 ## 19. The pumps
+
+![gif](/img/lvl19-acidswimguideline.png)  
+**Acid Swim**  
+Attribution: Developed by sfsf_630 (2023/07/07)  
+
 ### Save the Cats
 Don't forget to save the cat 🐱 (15/16)
 
