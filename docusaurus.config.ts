@@ -89,7 +89,7 @@ export default {
           items: [
             {
               label: "Speedrun Guide",
-              to: "/docs/guide",
+              to: "/docs/Guide",
             },
             {
               label: "Movement Techniques",
